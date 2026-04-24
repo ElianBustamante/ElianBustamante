@@ -1,4 +1,4 @@
-## Hey, I'm Elian! 👋
+## Hey, I'm Elian!
 
 - 🎓 Software Engineer, graduated from Universidad de La Frontera, from Villarrica, Chile 
 - 💼 Previously worked on scientific research pipelines and automation projects.
