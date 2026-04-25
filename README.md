@@ -1,8 +1,8 @@
 ## Hey, I'm Elian!
 
-- 🎓 Software Engineer, graduated from Universidad de La Frontera, from Villarrica, Chile 
+- 🎓 Software Engineer, graduated from Universidad de La Frontera, from Villarrica, Chile.
 - 💼 Previously worked on scientific research pipelines and automation projects.
-- 🌱 Learning Machine Learning with Python (scikit-learn).
+- 🌱 Expanding into Machine Learning with Python (scikit-learn).
 - 🌐 Spanish native | English B2 - Upper-Intermediate.
 
 ---
