@@ -1,13 +1,13 @@
 ## Hey, I'm Elian!
 
-- 🎓 Software Engineer, graduated from Universidad de La Frontera, from Villarrica, Chile.
-- 💼 Previously worked on scientific research pipelines and automation projects.
-- 🌱 Expanding into Machine Learning with Python (scikit-learn).
-- 🌐 Spanish native | English B2 - Upper-Intermediate.
+- Software Engineer, graduated from Universidad de La Frontera, from Villarrica, Chile.
+- Previously worked on scientific research pipelines and automation projects.
+- Expanding into Machine Learning with Python (scikit-learn).
+- Spanish native | English B2 - Upper-Intermediate.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elian-bustamante-4847a6299) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/elianbustamante) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elian.bustamante.obreque@gmail.com)
 
